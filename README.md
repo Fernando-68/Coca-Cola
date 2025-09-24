@@ -1,4 +1,4 @@
-# Coca-Cola
+# Coca‑Cola
 ![](./img/print.png)
 Landing page de treino com HTML e CSS.
 
@@ -6,4 +6,3 @@ Landing page de treino com HTML e CSS.
 - HTML
 - CSS
 - Media Queries
-
