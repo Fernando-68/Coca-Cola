@@ -44,8 +44,8 @@ main{
   color: #FFF;
   font-size: 2.25rem;
   width: 212px;
-  transform: translateX(-100%);
-  text-align: left;
+  transform: translateX(-120%);
+  text-align: end;
   margin-right: 24px;
 }
 
